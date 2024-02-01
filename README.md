@@ -1,5 +1,6 @@
-I write discord bots.
-I also like eating food.
+Silly Orange Cat
+
+Mainly a web dev
 <!---
 oim1/oim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
